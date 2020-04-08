@@ -48,10 +48,10 @@
             </objects>
             <point key="canvasLocation" x="1034.7826086956522" y="117.85714285714285"/>
         </scene>
-        <!--View Controller-->
+        <!--Color Detail View Controller-->
         <scene sceneID="ULA-cp-F8e">
             <objects>
-                <viewController id="CY2-I1-QXb" sceneMemberID="viewController">
+                <viewController id="CY2-I1-QXb" customClass="ColorDetailViewController" customModule="Rainbow" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Dsd-hI-3dP">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
